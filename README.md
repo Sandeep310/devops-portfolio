@@ -11,7 +11,7 @@ Whenever code is pushed to the `main` branch, a GitHub Actions workflow is trigg
 
 ## 🌐 Live Demo
 
-👉 http://your-bucket-name.s3-website-ap-south-1.amazonaws.com
+👉 http://my-devops-site-9119.s3-website.ap-south-2.amazonaws.com/
 
 ---
 
@@ -154,4 +154,4 @@ git push origin main
 ---
 ## 👨‍💻 Author
 
-Sandeep
+Sandeep Gudimetla

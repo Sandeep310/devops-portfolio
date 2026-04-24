@@ -92,7 +92,7 @@ jobs:
 
       - name: Deploy to S3
         run: |
-          aws s3 sync . s3://your-bucket-name \
+          aws s3 sync . s3://my-devops-site-9119 \
             --delete \
             --exclude ".git/*" \
             --exclude ".github/*"
